@@ -19,7 +19,7 @@ const char* hotspotPassword = "Removed"; //password removed for my security
 
 // ---------- Wi-Fi Option 3: Carleton CU-Wireless ----------
 const char* cuSsid = "CU-Wireless";
-const char* cuUsername = "adamnassef";
+const char* cuUsername = "Removed"; //ID removed for my security
 const char* cuPassword = "Removed"; //password removed for my security
 
 // Stores the name of the network that connected successfully
