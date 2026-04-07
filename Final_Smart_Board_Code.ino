@@ -10,7 +10,7 @@
 Adafruit_MCP9808 tempsensor = Adafruit_MCP9808();
 
 // ---------- Wi-Fi Credentials ----------
-const char* homeSsid = "aquapine";          // Wi-Fi network name
+const char* homeSsid = "bronzepine";          // Wi-Fi network name
 const char* homePassword = "Removed";  // Wi-Fi password removed for my security
 
 // ---------- Wi-Fi Option 2: iPhone Hotspot ----------
